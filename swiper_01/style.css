@@ -96,7 +96,7 @@ body {
 
 @media only screen and (max-width: 400px) {
   .swiper {
-    transform: scale(0.8);
+    transform: scale(0.8) translate(0, -5rem);
   }
 
   .swiper-slide {
